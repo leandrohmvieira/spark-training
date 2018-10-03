@@ -1,2 +1,2 @@
 # spark-training
-My notebooks from IBM spark couse
+My notebooks from IBM spark course
